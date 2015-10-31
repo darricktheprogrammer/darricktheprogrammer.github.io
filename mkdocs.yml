@@ -1,4 +1,6 @@
 site_name: Exit Code One
 pages:
 - index.md
+- blog:
+  - blog/02 applescript_programming.md
 copyright: copyright exitcodeone 2015
