@@ -1,5 +1,4 @@
 ---
-Title: In Defense of AppleScript
 Tags: languages, AppleScript
 ---
 
