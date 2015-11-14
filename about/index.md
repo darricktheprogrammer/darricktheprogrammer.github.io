@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Darrick
+share: false
 image:
   feature: 
 ---
