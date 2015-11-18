@@ -40,6 +40,10 @@ body {
 		@include grid(12,1.5);
 		@include prefix(12,2);
 	}
+
+	a {
+		color: #343434;
+	}
 }
 
 /* Top navigation links */
@@ -89,6 +93,7 @@ body {
 				display: inline;
 				padding: 0;
 			}
+			color: #343434;
 		}
 	}
 }
