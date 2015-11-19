@@ -1,5 +1,7 @@
-In Defense of AppleScript
-==
+---
+Tags: languages, AppleScript
+---
+
 AppleScript as a programming language doesn't get much respect in the software industry. Even the people who don't hate it don't necessarily love it. At best, it's seen as a means to an end; grudgingly, The Right Tool For the Job. Personally, I don't love it like I used to. I've grown past its limitations and prefer to use Python when I can. But, as a developer who automates art manipulation in the Adobe Suite, working for a company that stores a lot of their data in Excel spreadsheets, my job would be a lot harder without it.
 
 
