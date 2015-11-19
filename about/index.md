@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Darrick
+title: Who I am
 share: false
 image:
   feature: feat-image-1.png
