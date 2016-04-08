@@ -1,3 +1,5 @@
-docs/site/*
 research/*
 *.sublime-workspace
+_site
+.sass-cache
+.jekyll-metadata
